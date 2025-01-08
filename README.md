@@ -20,3 +20,23 @@ and many more features
 
 # live link using surge
 https://b10a7-select-cricketer-project-with-react.surge.sh/
+
+
+## Installation
+
+To get started with the project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   https://github.com/abdullah107189/Select-Cricketers.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd b10a7-select-cricketer-project-with-react
+   
+3. Install dependencies:
+   ```bash
+   npm install
+4. Start the development server:
+   ```bash
+   npm run dev
