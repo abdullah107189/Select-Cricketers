@@ -1,4 +1,3 @@
-
 # Seletect Cricketers Project with react
 One can select any six cricketers within the website and that selected data will be displayed in the select section.
 # live Project
@@ -17,10 +16,6 @@ https://b10a7-select-cricketer-project-with-react.surge.sh/
 2. when you choose player then added to selected cart
 3. You can delete choose player from the selected cart
 and many more features
-
-# live link using surge
-https://b10a7-select-cricketer-project-with-react.surge.sh/
-
 
 ## Installation
 
